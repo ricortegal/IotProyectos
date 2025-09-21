@@ -1,0 +1,4 @@
+Este directorio está destinado para librerías específicas del proyecto.
+
+PlatformIO buscará automáticamente las dependencias y las instalará.
+Más información sobre la gestión de librerías: https://docs.platformio.org/page/librarymanager/index.html

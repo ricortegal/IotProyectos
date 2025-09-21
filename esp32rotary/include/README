@@ -1,0 +1,7 @@
+Este directorio está destinado para archivos de cabecera del proyecto.
+
+Los archivos de cabecera del proyecto deben colocarse aquí. Por ejemplo:
+
+#include "myheader.h"
+
+Los archivos de cabecera de las librerías instaladas se ubicarán automáticamente aquí.
